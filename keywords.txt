@@ -1,0 +1,34 @@
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LargeStar	KEYWORD1	LargeStar
+Star	KEYWORD1	Star
+Hexagon	KEYWORD1	Hexagon
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Pixel	KEYWORD2
+numPixels	KEYWORD2
+setPixelColor	KEYWORD2
+Color	KEYWORD2
+show	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SMALL_STAR_EDGE_LENGTH	LITERAL1
+MEDIUM_STAR_EDGE_LENGTH	LITERAL1
+LARGE_OUTER_STAR_EDGE_LENGTH	LITERAL1
+LARGE_MIDDLE_STAR_EDGE_LENGTH	LITERAL1
+LARGE_INNER_STAR_EDGE_LENGTH	LITERAL1
+SMALL_HEXAGON_EDGE_LENGTH	LITERAL1
+MEDIUM_HEXAGON_EDGE_LENGTH	LITERAL1
+HEXAGON_SMALL	LITERAL1
+HEXAGON_MEDIUM	LITERAL1
+HEXAGON_LARGE	LITERAL1
+INNER_RING	LITERAL1
+MIDDLE_RING	LITERAL1
+OUTER_RING	LITERAL1
