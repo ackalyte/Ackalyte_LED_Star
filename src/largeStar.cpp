@@ -7,8 +7,7 @@
 *
 * @author      Sahil Khanna <s.khanna@tektindustries.com>
 * @date        17 OCT 2018
-* @brief       
-* @details      Parts of code taken from Adafruit NeoPixel Library
+* @details      Parts of code taken from Adafruit NeoPixel Library examples (https://github.com/adafruit/Adafruit_NeoPixel/blob/master/examples/RGBWstrandtest/RGBWstrandtest.ino)
 */
 #include "largeStar.h"
 
